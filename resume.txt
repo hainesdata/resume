@@ -1,0 +1,69 @@
+JAKE HAINES
+Data Science Intern
+
+
+Contact:
+Asheville, NC *****
+Princeton, NJ *****
+Phone: +1 ***.***.8752
+Email: j***@hainesdata.science
+
+
+Objective:
+Coming from a wide range of interests, I can apply unique perspective onto
+problems that pain me and generate an effective solution through collecting
+and analyzing data. I have great academic achievement at UNC Asheville
+and have gained practical experience working with data in academic,
+professional, and personal endeavors.
+
+
+Experience:
+
+1.
+October 2019 - January 2021
+Moge Tee: Data Scientist, ITS, Barista
+Took on typical barista responsibilities: maintained supply levels, learned menu items, recommended products based on customer needs, and prepared ingredients
+Managed POS system to reflect menu changes and optimize employee workflow
+Managed GrubHub and UberEats dashboards
+Collected sales data from POS system and external sources, cleaned data in Excel, and analyzed data in R and R-Studio to provide insights into customer traffic to help employees effectively meet demands
+
+
+Education:
+
+1.
+August 2019 - May 2023
+University of North Carolina - Asheville: Computer Science (Information Systems), B.S.
+Minor in mathematics
+Current cumulative GPA: 3.56 (cum laude)
+Dean’s List: Fall 2019, Spring 2020
+Completed undergraduate research: Spring 2021
+Placed first in Computer Vision (CSCI 412) course final competition, replicated CNN TensorFlow object classification model, predicts with 99.3% accuracy (500 test images, 10,000 training images)
+
+2.
+January 2021 - May 2021
+University of North Carolina - Asheville: Undergraduate Research in Statistics
+Comprehensive analysis of parking garage traffic on campus to predict demand for residential parking 
+Collected data via Raspberry Pi systems running a TensorFlow Lite object detection model
+Performed ETL on generated CSVs in Visual Studio SSDT (SSIS) and Microsoft SSMS (SQL) to clean data
+Completed various statistical tests in R and R-Studio to derive insights
+Data mining and visualization in Tableau
+Presented at UNC Asheville and Wake Forest University, published project to blog
+
+
+Relevant Courswork:
+(UNCA) CSCI 201: Intro to OOP
+(UNCA) CSCI 202: Intro to Data Structures
+(UNCA) CSCI 235: Systems I
+(UNCA) CSCI 338: Software Engineering
+(UNCA) CSCI 412: Computer Vision
+(UNCA) STAT 185: Introductory Statistics
+(UNCA) STAT 321: Applied Data Analysis
+(UNCA) STAT 499: Research
+(UNCA) MATH 191/192: Calculus I/II
+(UNCA) MATH 251: Discrete Mathematics
+(UNCA) PSYC 201: Research Methods I
+
+
+Skills:
+Software: Microsoft Office, SSIS, SSMS, SQL, Linux, Git, Github, Linux, Docker, Python, R, TensorFlow, Keras, Numpy, Matplotlib, OpenCV, Tableau
+Languages: English (Native), German (B2 Proficiency)
