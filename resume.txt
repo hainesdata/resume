@@ -1,5 +1,5 @@
 JAKE HAINES
-Data Science Intern
+Data Science
 
 
 Contact:
@@ -22,32 +22,36 @@ Experience:
 1.
 October 2019 - January 2021
 Moge Tee: Data Scientist, ITS, Barista
-Took on typical barista responsibilities: maintained supply levels, learned menu items, recommended products based on customer needs, and prepared ingredients
-Managed POS system to reflect menu changes and optimize employee workflow
-Managed GrubHub and UberEats dashboards
-Collected sales data from POS system and external sources, cleaned data in Excel, and analyzed data in R and R-Studio to provide insights into customer traffic to help employees effectively meet demands
+>	Took on typical barista responsibilities: maintained supply levels, learned menu items, recommended products based on customer needs, and prepared recipes
+>	Managed POS system to reflect menu changes and optimize employee workflow
+>	Collected sales data from POS system and external sources, cleaned data in Excel, and analyzed data in R and R-Studio to provide insights into customer traffic to help employees effectively meet demands
+
 
 
 Education:
 
 1.
-August 2019 - May 2023
-University of North Carolina - Asheville: Computer Science (Information Systems), B.S.
-Minor in mathematics
-Current cumulative GPA: 3.56 (cum laude)
-Dean’s List: Fall 2019, Spring 2020
-Completed undergraduate research: Spring 2021
-Placed first in Computer Vision (CSCI 412) course final competition, replicated CNN TensorFlow object classification model, predicts with 99.3% accuracy (500 test images, 10,000 training images)
+August 2019 - May 2021
+University of North Carolina - Asheville: Statistics, B.S.
+>	Minor in computer science
+>	Current cumulative GPA: 3.56 (cum laude)
+>	Dean’s List: Fall 2019, Spring 2020
+>	Completed undergraduate research: Spring 2021
+>	Placed first in Computer Vision (CSCI 412) course final competition, replicated TensorFlow object classification CNN, predicted with 99.3% accuracy (500 test images, 10,000 training images)
 
 2.
+August 2021 - May 2023
+North Carolina State University: Statistics, B.S.
+>	Minor in cognitive science
+
+3.
 January 2021 - May 2021
 University of North Carolina - Asheville: Undergraduate Research in Statistics
-Comprehensive analysis of parking garage traffic on campus to predict demand for residential parking 
-Collected data via Raspberry Pi systems running a TensorFlow Lite object detection model
-Performed ETL on generated CSVs in Visual Studio SSDT (SSIS) and Microsoft SSMS (SQL) to clean data
-Completed various statistical tests in R and R-Studio to derive insights
-Data mining and visualization in Tableau
-Presented at UNC Asheville and Wake Forest University, published project to blog
+>	Comprehensive analysis of parking garage traffic on campus to predict demand for residential parking
+>	Collected data via Raspberry Pi systems running a TensorFlow Lite object detection model
+>	Performed ETL on generated CSVs in Visual Studio SSDT (SSIS) and Microsoft SSMS (SQL) to clean data
+>	Data mining and visualization in Tableau
+>	Presented at UNC Asheville and Wake Forest University, published project to blog 
 
 
 Relevant Courswork:
